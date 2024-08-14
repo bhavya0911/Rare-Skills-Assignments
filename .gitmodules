@@ -1,0 +1,59 @@
+[submodule "Bond-Curve"]
+	path = Week 1/Bond-Curve
+	url = https://github.com/bhavya0911/Bond-Curve
+
+[submodule "NFT-Variants-Staking"]
+	path = Week 2/NFT-Variants-Staking
+	url = https://github.com/bhavya0911/NFT-Variants-Staking
+
+[submodule "Uniswap"]
+	path = Week 3-6/Uniswap
+	url = https://github.com/bhavya0911/Uniswap
+
+[submodule "Static-Analysis-Testing"]
+	path = Week 7/Static-Analysis-Testing
+	url = https://github.com/bhavya0911/Static-Analysis-Testing
+
+[submodule "Fuzzing-Testing"]
+	path = Week 8/Fuzzing-Testing
+	url = https://github.com/bhavya0911/Fuzzing-Testing
+
+[submodule "Security-1"]
+	path = Week 9-10/Security-1
+	url = https://github.com/bhavya0911/Security-1
+
+[submodule "Security-2"]
+	path = Week 11-12/Security-2
+	url = https://github.com/bhavya0911/Security-2
+
+[submodule "Huff"]
+	path = Week 13/Huff
+	url = https://github.com/bhavya0911/Huff
+
+[submodule "Yul-Assembly"]
+	path = Week 14-16/Yul-Assembly
+	url = https://github.com/bhavya0911/Yul-Assembly
+
+[submodule "Gas-Optimisation"]
+	path = Week 17/Gas-Optimisation
+	url = https://github.com/bhavya0911/Gas-Optimisation
+
+[submodule "Proxies-1"]
+	path = Week 18-19/Proxies-1
+	url = https://github.com/bhavya0911/Proxies-1
+
+[submodule "Proxies-2"]
+	path = Week 18-19/Proxies-2
+	url = https://github.com/bhavya0911/Proxies-2
+
+[submodule "EIP-712"]
+	path = Week 20-22/EIP-712
+	url = https://github.com/bhavya0911/EIP-712
+
+[submodule "Elliptic-Curves"]
+	path = Week 20-22/Elliptic-Curves
+	url = https://github.com/bhavya0911/Elliptic-Curves
+
+[submodule "ECDSA-CTFs"]
+	path = Week 20-22/ECDSA-CTFs
+	url = https://github.com/bhavya0911/ECDSA-CTFs
